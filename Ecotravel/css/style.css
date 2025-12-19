@@ -6,10 +6,15 @@
 /* Impostazioni generali (Font sans-serif) */
 body {
     font-family: sans-serif;
-    background-color: green;
+    background-color: blue;
     color: black;
 }
 
 header {
     background-color: #f8d281d5;
 }
+
+nav {
+    text-align: center;
+}
+
