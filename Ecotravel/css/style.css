@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Impostazioni generali (Font sans-serif) */
+body {
+    font-family: sans-serif;
+    background-color: green;
+    color: black;
+}
+
+header {
+    background-color: #f8d281d5;
+}
